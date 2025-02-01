@@ -1,0 +1,89 @@
+Year,Brand,Segment,Revenue (Billion USD)
+2012,Apple,iPhone,78.6
+2012,Apple,Mac,23.2
+2012,Apple,iPad,30.9
+2012,Apple,Services,12.8
+2012,Apple,"Wearables, Home, and Accessories",10.7
+2013,Apple,iPhone,91.2
+2013,Apple,Mac,21.4
+2013,Apple,iPad,31.9
+2013,Apple,Services,16.0
+2013,Apple,"Wearables, Home, and Accessories",10.1
+2014,Apple,iPhone,101.0
+2014,Apple,Mac,24.0
+2014,Apple,iPad,30.2
+2014,Apple,Services,18.0
+2014,Apple,"Wearables, Home, and Accessories",8.3
+2015,Apple,iPhone,155.0
+2015,Apple,Mac,25.4
+2015,Apple,iPad,23.2
+2015,Apple,Services,19.9
+2015,Apple,"Wearables, Home, and Accessories",10.0
+2016,Apple,iPhone,136.0
+2016,Apple,Mac,22.8
+2016,Apple,iPad,20.6
+2016,Apple,Services,24.3
+2016,Apple,"Wearables, Home, and Accessories",11.1
+2017,Apple,iPhone,139.0
+2017,Apple,Mac,25.5
+2017,Apple,iPad,18.8
+2017,Apple,Services,32.7
+2017,Apple,"Wearables, Home, and Accessories",12.8
+2018,Apple,iPhone,164.0
+2018,Apple,Mac,25.1
+2018,Apple,iPad,18.3
+2018,Apple,Services,39.7
+2018,Apple,"Wearables, Home, and Accessories",17.3
+2019,Apple,iPhone,142.0
+2019,Apple,Mac,25.7
+2019,Apple,iPad,21.2
+2019,Apple,Services,46.2
+2019,Apple,"Wearables, Home, and Accessories",24.4
+2020,Apple,iPhone,137.0
+2020,Apple,Mac,28.6
+2020,Apple,iPad,23.7
+2020,Apple,Services,53.7
+2020,Apple,"Wearables, Home, and Accessories",30.6
+2021,Apple,iPhone,191.0
+2021,Apple,Mac,35.1
+2021,Apple,iPad,31.8
+2021,Apple,Services,68.4
+2021,Apple,"Wearables, Home, and Accessories",38.3
+2015,Motorola,Products and Systems Integration,3.6
+2015,Motorola,Software and Services,2.1
+2016,Motorola,Products and Systems Integration,3.8
+2016,Motorola,Software and Services,2.2
+2017,Motorola,Products and Systems Integration,4.0
+2017,Motorola,Software and Services,2.4
+2018,Motorola,Products and Systems Integration,4.5
+2018,Motorola,Software and Services,2.8
+2019,Motorola,Products and Systems Integration,4.8
+2019,Motorola,Software and Services,3.1
+2020,Motorola,Products and Systems Integration,4.9
+2020,Motorola,Software and Services,3.5
+2021,Motorola,Products and Systems Integration,5.3
+2021,Motorola,Software and Services,3.9
+2011,Samsung,Communication,46.95
+2011,Samsung,Consumer Electronics,52.29
+2011,Samsung,Semiconductors,32.51
+2011,Samsung,Display Panels,25.69
+2012,Samsung,Communication,81.65
+2012,Samsung,Consumer Electronics,42.51
+2012,Samsung,Semiconductors,30.66
+2012,Samsung,Display Panels,29.01
+2013,Samsung,Communication,117.53
+2013,Samsung,Consumer Electronics,44.24
+2013,Samsung,Semiconductors,32.91
+2013,Samsung,Display Panels,26.23
+2014,Samsung,Communication,94.4
+2014,Samsung,Consumer Electronics,44.11
+2014,Samsung,Semiconductors,34.91
+2014,Samsung,Display Panels,22.61
+2015,Samsung,Communication,88.39
+2015,Samsung,Consumer Electronics,41.23
+2015,Samsung,Semiconductors,41.83
+2015,Samsung,Display Panels,24.16
+2016,Samsung,Communication,85.92
+2016,Samsung,Consumer Electronics,41.35
+2016,Samsung,Semiconductors,44.97
+2016,Samsung,Display Panels,23.68

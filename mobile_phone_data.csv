@@ -1,0 +1,22 @@
+Brand,Model,Release Year,Price in(USD),Battery Capacity (mAh),Screen Size (inches),Primary Camera (MP),Storage Options (GB),Processor,RAM (GB),Weight (grams),Operating System,Average Price (USD)
+Samsung,Galaxy S2,2011,549,1650,4.3,8,"16, 32",Exynos 4210,1.0,116,Android 2.3,729.0
+Samsung,Galaxy S5,2014,649,2800,5.1,16,"16, 32",Snapdragon 801,2.0,145,Android 4.4,729.0
+Samsung,Galaxy S8,2017,749,3000,5.8,12,"64, 128",Snapdragon 835,4.0,155,Android 7.0,729.0
+Samsung,Galaxy S10,2019,899,3400,6.1,12,"128, 512",Snapdragon 855,8.0,157,Android 9.0,729.0
+Samsung,Galaxy S21,2021,799,4000,6.2,64,"128, 256",Exynos 2100,8.0,169,Android 11,729.0
+Samsung,Galaxy S23,2023,799,3900,6.1,50,"128, 256, 512",Snapdragon 8 Gen 2,8.0,168,Android 13,729.0
+Samsung,Galaxy Z Flip 5,2023,999,3700,6.7,12,"256, 512",Snapdragon 8 Gen 2,8.0,187,Android 13,729.0
+Apple,iPhone 4S,2011,649,1432,3.5,8,"16, 32, 64",Apple A5,0.5,140,iOS 5,729.0
+Apple,iPhone 6,2014,649,1810,4.7,8,"16, 64, 128",Apple A8,1.0,129,iOS 8,729.0
+Apple,iPhone X,2017,999,2716,5.8,12,"64, 256",Apple A11 Bionic,3.0,174,iOS 11,729.0
+Apple,iPhone 12,2020,799,2815,6.1,12,"64, 128, 256",Apple A14 Bionic,4.0,164,iOS 14,729.0
+Apple,iPhone 14 Pro,2022,999,3200,6.1,48,"128, 256, 512, 1024",Apple A16 Bionic,6.0,206,iOS 16,729.0
+Apple,iPhone 15,2023,799,3279,6.1,48,"128, 256, 512",Apple A16 Bionic,6.0,171,iOS 17,729.0
+Apple,iPhone 15 Pro Max,2023,1199,4422,6.7,48,"256, 512, 1024",Apple A17 Pro,8.0,221,iOS 17,729.0
+Motorola,Droid RAZR,2011,599,1780,4.3,8,16,TI OMAP 4430,1.0,127,Android 2.3,729.0
+Motorola,Moto G,2013,179,2070,4.5,5,"8, 16",Snapdragon 400,1.0,143,Android 4.3,729.0
+Motorola,Moto X,2015,399,2300,5.2,13,"16, 32",Snapdragon 801,2.0,144,Android 5.1,729.0
+Motorola,Moto Z,2016,699,2600,5.5,13,"32, 64",Snapdragon 820,4.0,136,Android 6.0,729.0
+Motorola,Moto G Stylus,2023,299,5000,6.8,50,"128, 256",MediaTek Helio G88,6.0,195,Android 13,729.0
+Motorola,Razr 2023,2023,999,3800,6.9,64,"256, 512",Snapdragon 8+ Gen 1,8.0,188,Android 13,729.0
+Motorola,Edge 40,2023,599,4400,6.55,50,"256, 512",Dimensity 8020,8.0,171,Android 13,729.0
